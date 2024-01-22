@@ -512,5 +512,275 @@
         "meaning": [
             "Now; the present time; just now; soon; immediately; (one) more"
         ]
+    },
+    {
+        "japanese": "良い",
+        "type": "'i' adjective",
+        "meaning": [
+            "Good; excellent; fine; nice; pleasant; agreeable",
+            "Sufficient (can be used to turn down an offer); ready; prepared"
+        ]
+    },
+    {
+        "japanese": "いい",
+        "type": "ii 'i' adjective",
+        "meaning": [
+            "Good; excellent; fine; nice; pleasant; agreeable",
+            "Sufficient (can be used to turn down an offer); ready; prepared"
+        ]
+    },
+    {
+        "japanese": "所",
+        "type": "Noun, suffix",
+        "meaning": [
+            "Place; spot; scene; site",
+            "Address"
+        ]
+    },
+    {
+        "japanese": "自分",
+        "type": "Pronoun",
+        "meaning": [
+            "Myself; yourself; oneself; himself; herself",
+            "I; me"
+        ]
+    },
+    {
+        "japanese": "ん",
+        "type": "Interjection (kandoushi)",
+        "meaning": [
+            "Yes; yeah; uh huh",
+            "huh?; what?"
+        ]
+    },
+    {
+        "japanese": "あー",
+        "type": "Interjection (kandoushi)",
+        "meaning": [
+            "Ah!; Oh!; Alas!",
+            "Yes; Indeed; That is correct"
+        ]
+    },
+    {
+        "japanese": "やはり",
+        "type": "Adverb",
+        "meaning": [
+            "As expected; sure enough; just as one thought",
+            "After all (is said and done); in the e; as one would expect; in any case"
+        ]
+    },
+    {
+        "japanese": "やつばり",
+        "type": "Adverb",
+        "meaning": [
+            "Too; also; likewise; either",
+            "Still; as before"
+        ]
+    },
+    {
+        "japanese": "たい",
+        "type": "Auxiliary adjective",
+        "meaning": [
+            "Want to ... do something; would like to ...",
+            "indicates emphasis"
+        ]
+    },
+    {
+        "japanese": "やる",
+        "type": "'ru' godan verb",
+        "meaning": [
+            "to do; to undertake; to perform; to play (a game); to study",
+            "To send; to dispatch; to despatch"
+        ]
+    },
+    {
+        "japanese": "中",
+        "type": "Noun",
+        "meaning": [
+            "Inside; in",
+            "Among; within"
+        ]
+    },
+    {
+        "japanese": "いる",
+        "type": "Ichidan verb",
+        "meaning": [
+            "To be (of animate objects); to exist",
+            "To stay"
+        ]
+    },
+    {
+        "japanese": "出来る",
+        "type": "Ichidan verb",
+        "meaning": [
+            "To be able (in a position) to do; to be up to the task",
+            "To be ready; to be completed"
+        ]
+    },
+    {
+        "japanese": "など",
+        "type": "Particle",
+        "meaning": [
+            "Et cetera; etc.; and the like; and so forth",
+            "Or something"
+        ]
+    },
+    {
+        "japanese": "として",
+        "type": "Expression",
+        "meaning": [
+            "As (i.e in the role of); for (i.e. from the viewpoint of)",
+            "Apart from... (used to change the topic)"
+        ]
+    },
+    {
+        "japanese": "後",
+        "type": "Noun, 'no' adjective",
+        "meaning": [
+            "Behind; rear",
+            "After; later"
+        ]
+    },
+    {
+        "japanese": "また",
+        "type": "Adverb",
+        "meaning": [
+            "Again; and; also; still (doing something)"
+        ]
+    },
+    {
+        "japanese": "ちよつと",
+        "type": "Adverb",
+        "meaning": [
+            "Just a minute; short time; just a little",
+            "Somewhat; easily; readily; rather"
+        ]
+    },
+    {
+        "japanese": "てくる",
+        "type": "",
+        "meaning": [
+            "Go and do"
+        ]
+    },
+    {
+        "japanese": "だけ",
+        "type": "Particle",
+        "meaning": [
+            "Only; just; merely; simply; no more than; nothing but; alone",
+            "As (e.g. as soon as, as much as)"
+        ]
+    },
+    {
+        "japanese": "くちい",
+        "type": "Suffix, particle",
+        "meaning": [
+            "Approximately; about; around; or so",
+            "To (about) the extent that; (almost) enough that; so ... that ...; at least"
+        ]
+    },
+    {
+        "japanese": "ぐちい",
+        "type": "Suffix, particle",
+        "meaning": [
+            "Approximately; about; around; or so",
+            "To (about) the extent that; (almost) enough that; so ... that ...; at least"
+        ]
+    },
+    {
+        "japanese": "ではない",
+        "type": "Expression, 'i' adjective",
+        "meaning": [
+            "Is not, am not; are not"
+        ]
+    },
+    {
+        "japanese": "えーと",
+        "type": "Interjection (kandoushi)",
+        "meaning": [
+            "Let me see; well; errr ...; uhh ..."
+        ]
+    },
+    {
+        "japanese": "方",
+        "type": "Noun",
+        "meaning": [
+            "Direction, way; side; area (in a particular direction)",
+            "Side (of an argument, etc.); one's part"
+        ]
+    },
+    {
+        "japanese": "ていく",
+        "type": "",
+        "meaning": [
+            "Go on doing, continuing"
+        ]
+    },
+    {
+        "japanese": "てく",
+        "type": "Irregular godan verb 'iku/yuku, auxiliary verb'",
+        "meaning": [
+            "To continue"
+        ]
+    },
+    {
+        "japanese": "訳",
+        "type": "Noun",
+        "meaning": [
+            "conclusion from reasoning, judgement or calculation based on something read or heard; reason; cause; meaning; circumstances; situation"
+        ]
+    },
+    {
+        "japanese": "へ",
+        "type": "Particle",
+        "meaning": [
+            "Indicates direction or goal (e.g. 'to')"
+        ]
+    },
+    {
+        "japanese": "どう",
+        "type": "Adverb",
+        "meaning": [
+            "How; in what way; how about"
+        ]
+    },
+    {
+        "japanese": "し",
+        "type": "Particle, conjuction",
+        "meaning": [
+            "(At the end of a phrase) notes one (of several) reasons"
+        ]
+    },
+    {
+        "japanese": "本当",
+        "type": "'no' adjective, 'na' adjective, adverb",
+        "meaning": [
+            "Truth; reality; actually; fact",
+            "Proper; right; correct; official"
+        ]
+    },
+    {
+        "japanese": "持つ",
+        "type": "'tsu' godan verb",
+        "meaning": [
+            "To hold (in one's hand); to take; to carry",
+            "To possess; to have; to own"
+        ]
+    },
+    {
+        "japanese": "出る",
+        "type": "Ichidan verb",
+        "meaning": [
+            "To leave; to  exit; to go out; to come out; to get out",
+            "To leave (on a journey); to depart; to start out; to set out"
+        ]
+    },
+    {
+        "japanese": "為",
+        "type": "Noun",
+        "meaning": [
+            "Good; advantage; benefit; welfare",
+            "Sake; purpose; objective, aim"
+        ]
     }
 ]
