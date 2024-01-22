@@ -184,7 +184,118 @@
         "type": "Adverb",
         "meaning": [
             "Just (e.g. 'just wait here'); come now; now, now",
-            "To name; to call"
+            "Tolerably; passably; moderately; reasonably; fairly; rather; somewhat"
+        ]
+    },
+    {
+        "japanese": "まー",
+        "type": "Adverb",
+        "meaning": [
+            "Just (e.g. 'just wait here'); come now; now, now",
+            "Tolerably; passably; moderately; reasonably; fairly; rather; somewhat"
+        ]
+    },
+    {
+        "japanese": "ある",
+        "type": "Irregular 'ru' godan verb",
+        "meaning": [
+            "To be (usu. of inanimate objects); to exist; to live",
+            "To have"
+        ]
+    },
+    {
+        "japanese": "ね",
+        "type": "Particle",
+        "meaning": [
+            "Indicates emphasis, agreement, request for confirmation, etc.; is it so",
+            "Hey; come on; listen"
+        ]
+    },
+    {
+        "japanese": "ない",
+        "type": "Auxiliary adjective",
+        "meaning": [
+            "Not",
+            "Emphatic suffix"
+        ]
+    },
+    {
+        "japanese": "なる",
+        "type": "'ru' godan verb",
+        "meaning": [
+            "To become; to get; to grow; to be; to reach; to attain",
+            "To result in; to prove to be"
+        ]
+    },
+    {
+        "japanese": "か",
+        "type": "Particle",
+        "meaning": [
+            "Indicates a question (sometimems rhetorical)",
+            "Or; whether or not"
+        ]
+    },
+    {
+        "japanese": "その",
+        "type": "Pre-noun adjectival",
+        "meaning": [
+            "That (something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener), the",
+            "Um...; er...; uh..."
+        ]
+    },
+    {
+        "japanese": "けれど",
+        "type": "Conjuction, particle",
+        "meaning": [
+            "But; however; although"
+        ]
+    },
+    {
+        "japanese": "から",
+        "type": "Particle",
+        "meaning": [
+            "From (e.g. time, place, numerical quantity); since",
+            "From (originator); by"
+        ]
+    },
+    {
+        "japanese": "よう",
+        "type": "Auxiliary verb",
+        "meaning": [
+            "(I) will; (I) shall",
+            "Let's"
+        ]
+    },
+    {
+        "japanese": "思う",
+        "type": "'u' godan verb",
+        "meaning": [
+            "To think; to consider; to believe",
+            "To think (of doing); to plan (to do)"
+        ]
+    },
+    {
+        "japanese": "物",
+        "type": "Noun",
+        "meaning": [
+            "Thing; object; article; stuff; substance",
+            "One's things; possessions; property; belonging"
+        ]
+    },
+    {
+        "japanese": "そう",
+        "type": "Adverb",
+        "meaning": [
+            "In that way (concerning the actions of the listener or concerning the ideas expressed or understood by the listener; with a neg. sentence, implies that something isn't as muc as one might think); thus; such",
+            "So (used to express agreement with something said)"
+        ]
+    },
+    {
+        "japanese": "何",
+        "type": "Pronoun",
+        "meaning": [
+            "What",
+            "How many"
         ]
     }
 ]
