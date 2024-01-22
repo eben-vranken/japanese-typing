@@ -131,5 +131,60 @@
             "Called; named",
             "As many as; as much as"
         ]
+    },
+    {
+        "japanese": "つう",
+        "type": "'na' adjective",
+        "meaning": [
+            "Connoisseur",
+            "Counter for letters, notes, documents, etc."
+        ]
+    },
+    {
+        "japanese": "事",
+        "type": "Noun",
+        "meaning": [
+            "Thing; matter",
+            "Incident; occurrence; event; something serious; trouble; crisis"
+        ]
+    },
+    {
+        "japanese": "ええ",
+        "type": "Interjection (kandoushi)",
+        "meaning": [
+            "Yes; that is correct; right",
+            "Um; err"
+        ]
+    },
+    {
+        "japanese": "えー",
+        "type": "Interjection (kandoushi)",
+        "meaning": [
+            "Yes; that is correct; right",
+            "Um; err"
+        ]
+    },
+    {
+        "japanese": "言う",
+        "type": "'u' godan verb",
+        "meaning": [
+            "To say; to utter; to declare",
+            "To name; to call"
+        ]
+    },
+    {
+        "japanese": "あの",
+        "type": "Interjection (kandoushi)",
+        "meaning": [
+            "Say; well; errr ..."
+        ]
+    },
+    {
+        "japanese": "まあ",
+        "type": "Adverb",
+        "meaning": [
+            "Just (e.g. 'just wait here'); come now; now, now",
+            "To name; to call"
+        ]
     }
 ]

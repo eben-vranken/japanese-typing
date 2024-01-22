@@ -56,7 +56,7 @@ export default function Home() {
   return (
     <main className="flex flex-1 justify-center items-center relative">
       {/* Input */}
-      <input name="typingPractice" type='search' className='opacity-0 absolute w-full h-full z-10' onChange={handleInput} autoFocus />
+      <input name="typingPractice" className='opacity-0 absolute w-full h-full z-10' onChange={handleInput} autoFocus />
 
       {/* Word */}
       {wordData ?
@@ -87,7 +87,7 @@ export default function Home() {
               <ul className='text-sm list-decimal font-medium opacity-30'>
                 {wordData.meaning.map((meaning, id) => {
                   return (
-                    <li>{meaning}</li>
+                    <li key={`${meaning}${id}`}>{meaning}</li>
                   )
                 })}
               </ul>
