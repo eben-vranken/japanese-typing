@@ -297,5 +297,220 @@
             "What",
             "How many"
         ]
+    },
+    {
+        "japanese": "私",
+        "type": "Pronoun",
+        "meaning": [
+            "I; me",
+            "Private affairs; personal matter; secrecy"
+        ]
+    },
+    {
+        "japanese": "しまう",
+        "type": "'u' godan verb",
+        "meaning": [
+            "To finish; to stop; to end; to put an end to; to bring down a close",
+            "to close (a business, etc); to close down; to shut down; to shut up"
+        ]
+    },
+    {
+        "japanese": "それ",
+        "type": "Pronoun",
+        "meaning": [
+            "That (indicatitng an item or person near the listener, the action of the listener, or something on their mind); it",
+            "that time; then"
+        ]
+    },
+    {
+        "japanese": "とか",
+        "type": "Particle, conjuction",
+        "meaning": [
+            "Among other things; such things as; or something like that"
+        ]
+    },
+    {
+        "japanese": "この",
+        "type": "Pre-noun adjectival",
+        "meaning": [
+            "This (something or someone close to the speaker (including the speaker), or ideas expressed by the speaker)"
+        ]
+    },
+    {
+        "japanese": "無い",
+        "type": "'i' adjective",
+        "meaning": [
+            "Nonexistent; not being (there)",
+            "Unpossessed; unowned; not had"
+        ]
+    },
+    {
+        "japanese": "行く",
+        "type": "Irregular godan verb 'iku/yuku, intransive verb'",
+        "meaning": [
+            "To go; to move (in a direction or towards a specific location); to head (towards); to be transported (towards); to reach",
+            "To proceed; to take place"
+        ]
+    },
+    {
+        "japanese": "ねだ",
+        "type": "Expression",
+        "meaning": [
+            "The expectation that is ...; the reason is that ...; the fact is that ...; it is that ..."
+        ]
+    },
+    {
+        "japanese": "のだ",
+        "type": "Expression",
+        "meaning": [
+            "The expectation that is ...; the reason is that ...; the fact is that ...; it is that ..."
+        ]
+    },
+    {
+        "japanese": "せる",
+        "type": "Auxiliary verb, Ichidan verb",
+        "meaning": [
+            "Auxiliary verb indicating the causative",
+            "Auxiliary verb indicating that one has been granted the permission to do something"
+        ]
+    },
+    {
+        "japanese": "これ",
+        "type": "Pronoun",
+        "meaning": [
+            "This (indicating an item near the speaker, the action of the speaker, or the current topic)",
+            "This person (usu. indicating someone in one's in-group)"
+        ]
+    },
+    {
+        "japanese": "もう",
+        "type": "Adverb",
+        "meaning": [
+            "Now; soon; shortly; before long; presently",
+            "Already; yet; by now; (not) anymore"
+        ]
+    },
+    {
+        "japanese": "である",
+        "type": "Irregular 'ru' godan verb",
+        "meaning": [
+            "Be; is"
+        ]
+    },
+    {
+        "japanese": "時",
+        "type": "Noun",
+        "meaning": [
+            "Time; hour; moment",
+            "Occasion; case"
+        ]
+    },
+    {
+        "japanese": "な",
+        "type": "Particle",
+        "meaning": [
+            "(Sentence end, mainly masc.) indicates emotion or emphasis",
+            "(Used with masu stem verb) command"
+        ]
+    },
+    {
+        "japanese": "ず",
+        "type": "Auxiliary verb, suffix",
+        "meaning": [
+            "Not doing"
+        ]
+    },
+    {
+        "japanese": "ので",
+        "type": "Particle",
+        "meaning": [
+            "That being the case; because of ...; the reason is ...; given that..."
+        ]
+    },
+    {
+        "japanese": "んで",
+        "type": "Particle",
+        "meaning": [
+            "That being the case; because of ...; the reason is ...; given that..."
+        ]
+    },
+    {
+        "japanese": "人",
+        "type": "Noun",
+        "meaning": [
+            "Man; person",
+            "Human being; manking; people"
+        ]
+    },
+    {
+        "japanese": "よ",
+        "type": "Particle",
+        "meaning": [
+            "Indicates certainty, emphasis, contempt, request, etc. (after sentence-end)",
+            "Used when calling out to someone (after a noun)"
+        ]
+    },
+    {
+        "japanese": "こう",
+        "type": "Adverb",
+        "meaning": [
+            "In this way (used for something or someone close the speaker, including the speaker himself, or for the opinions of the speaker); thus; such",
+            "Uh... (interjejction used as a verbal pause)"
+        ]
+    },
+    {
+        "japanese": "ば",
+        "type": "Particle",
+        "meaning": [
+            "If... then; when",
+            "And"
+        ]
+    },
+    {
+        "japanese": "や",
+        "type": "Particle",
+        "meaning": [
+            "Such things as (non-exhaustive list related to a specific time and place); and ... and",
+            "The minute (that) ...; no sooner than ...; as soon as"
+        ]
+    },
+    {
+        "japanese": "来る",
+        "type": "Irregular verb",
+        "meaning": [
+            "To come (spatially or temporally); to approach; to arrive",
+            "To come back; to do ... and come back"
+        ]
+    },
+    {
+        "japanese": "迄",
+        "type": "Particle",
+        "meaning": [
+            "Until (a time); till; to; up to",
+            "To (a place); as far as"
+        ]
+    },
+    {
+        "japanese": "見る",
+        "type": "Ichidan verb",
+        "meaning": [
+            "To see; to look; to watch; to view; to observe",
+            "To look over; to look on; to assess; to examine; to judge"
+        ]
+    },
+    {
+        "japanese": "たり",
+        "type": "Particle",
+        "meaning": [
+            "-ing and -ing (e.g. 'coming and going')",
+            "(used adverbially) doing such things as..."
+        ]
+    },
+    {
+        "japanese": "今",
+        "type": "Adverbial noun",
+        "meaning": [
+            "Now; the present time; just now; soon; immediately; (one) more"
+        ]
     }
 ]
