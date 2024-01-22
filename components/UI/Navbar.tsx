@@ -28,7 +28,7 @@ const Navbar: FunctionComponent = () => {
             <ul className={`flex gap-x-8 items-center [&>*]:font-mono  ${navState ?
                 "space-y-3 z-20 pb-5 fixed overflow-scroll inset-0 w-screen h-screen justify-center items-center flex-col bg-body" : 'max-lg:hidden'}`}>
 
-                <li className="hover:opacity-70" onClick={() => setNavState(!navState)}>
+                <li className="hover:opacity-70" >
                     <Link href={"/"}>Practice</Link>
                 </li>
 
@@ -37,11 +37,11 @@ const Navbar: FunctionComponent = () => {
                     |
                 </li>
 
-                <li className="hover:opacity-70" onClick={() => setNavState(!navState)}>
+                <li className="hover:opacity-70">
                     <Link href={"/stats"}>Stats</Link>
                 </li>
 
-                <li className="hover:opacity-70 cursor-pointer font-semibold px-3 py-1 border-2 border-primary rounded-md" onClick={() => setNavState(!navState)}>
+                <li className="hover:opacity-70 cursor-pointer font-semibold px-3 py-1 border-2 border-primary rounded-md">
                     <Link href={"/vocab"}>Vocabulary</Link>
                 </li>
             </ul>
