@@ -1,0 +1,135 @@
+[
+    {
+        "japanese": "の",
+        "type": "Particle",
+        "meaning": [
+            "Indicates possessive",
+            "Nominalizes verbs and adjectives"
+        ]
+    },
+    {
+        "japanese": "に",
+        "type": "Particle",
+        "meaning": [
+            "At (place, time); in; on; during",
+            "To (direction, state); toward; into"
+        ]
+    },
+    {
+        "japanese": "は",
+        "type": "Particle",
+        "meaning": [
+            "Topic marker particle",
+            "Indicates contrast with another option (stated or unstated)"
+        ]
+    },
+    {
+        "japanese": "た",
+        "type": "Auxiliary verb",
+        "meaning": [
+            "Indicates past completed or action",
+            "Indicates light imperative"
+        ]
+    },
+    {
+        "japanese": "を",
+        "type": "Particle",
+        "meaning": [
+            "Indicates direct object of action",
+            "Indicates subject of causative expression"
+        ]
+    },
+    {
+        "japanese": "だ",
+        "type": "Copula",
+        "meaning": [
+            "Be; is",
+            "Indicates past or completed action"
+        ]
+    },
+    {
+        "japanese": "が",
+        "type": "Particle",
+        "meaning": [
+            "Indicates sentence subject (occasionally object)",
+            "Indicates possessive (esp. in literary expressions)"
+        ]
+    },
+    {
+        "japanese": "て",
+        "type": "Particle",
+        "meaning": [
+            "Casual quoting particle",
+            "Indicates supposition; if ... then"
+        ]
+    },
+    {
+        "japanese": "と",
+        "type": "Particle, conjuction",
+        "meaning": [
+            "If; when",
+            "And"
+        ]
+    },
+    {
+        "japanese": "ます",
+        "type": "Auxiliary verb",
+        "meaning": [
+            "Used to indicate respect for the listener (or reader)",
+            "Used to indicate respect for those affected by the action"
+        ]
+    },
+    {
+        "japanese": "も",
+        "type": "Particle",
+        "meaning": [
+            "Too; also; in addition; as well; (not) either (in a negative sentence)",
+            "Both A and B; A as well as B; neither A nor B (in a negative sentence)"
+        ]
+    },
+    {
+        "japanese": "で",
+        "type": "Particle",
+        "meaning": [
+            "Indicates location of action; at; in",
+            "Indicates time of action"
+        ]
+    },
+    {
+        "japanese": "てる",
+        "type": "Ichidan verb, auxiliary verb",
+        "meaning": [
+            "Indicates continuing action or state (e.g. to be ..ing, to have been ..ing)"
+        ]
+    },
+    {
+        "japanese": "ている",
+        "type": "Ichidan verb, auxiliary verb",
+        "meaning": [
+            "Indicates continuing action or state (e.g. to be ..ing, to have been ..ing)"
+        ]
+    },
+    {
+        "japanese": "です",
+        "type": "Expression",
+        "meaning": [
+            "Be; is"
+        ]
+    },
+    {
+        "japanese": "れる",
+        "type": "Auxiliary verb, Ichidan verb",
+        "meaning": [
+            "Indicates passive voice (incl. the 'suffering passive'",
+            "Indicates the potential form"
+        ]
+    },
+    {
+        "japanese": "という",
+        "type": "Expression",
+        "meaning": [
+            "Called; named",
+            "As many as; as much as"
+        ]
+    }
+]

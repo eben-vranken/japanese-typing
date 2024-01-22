@@ -12,7 +12,8 @@ import LoadingSpinner from '@/components/LoadingSpinner';
 // Interface
 interface Word {
   japanese: String;
-  english: string;
+  type: string;
+  meaning: Array<String>;
 }
 
 export default function Home() {
@@ -21,7 +22,7 @@ export default function Home() {
 
   // Handle word fetch
   useEffect(() => {
-    const word: Word = getWord();
+    const word: Word = getWord(1);
 
     setWordData(word);
   }, [])
@@ -41,7 +42,7 @@ export default function Home() {
 
       setTimeout(() => {
         // Fetch a new word when the current word is correctly typed
-        const newWord: Word = getWord();
+        const newWord: Word = getWord(1);
         setWordData(newWord);
 
         // Clear the input for the new word
@@ -61,24 +62,37 @@ export default function Home() {
       {wordData ?
         // Display word properties
         (
-          <main className='flex flex-col items-center gap-y-2 animate-fade'>
-            {/* English translation */}
-            <span className='text-lg font-medium opacity-30'>
-              {wordData.english}
-            </span>
-
-            <span className='opacity-10 font-extrabold -my-2'>
-              ー
-            </span>
-
+          <main className='flex flex-col items-center gap-y-8 animate-fade'>
             {/* Japanese word */}
             <span className='text-4xl font-semibold text-white/50 '>
               {wordData.japanese.split('').map((char: String, id) => {
                 return (
-                  <span key={`${char}${id}`} className={`px-1 box-content ${char === input[id] ? 'text-green-500' : input.length > id ? 'text-red-500' : ''} ${id === input.length ? 'border-l-[1px]' : ''}`}>{char}</span>
+                  <span key={`${char}${id}`} className={`px-1 box-content ${char === input[id] ? 'text-correct' : input.length > id ? 'text-false' : ''} ${id === input.length ? 'border-l-[2px] border-primary' : ''}`}>{char}</span>
                 )
               })}
             </span>
+
+            {/* Horizontal Divider */}
+            <span className=' font-extrabold w-64 border-b-2 border-primary'>
+
+            </span>
+
+            <section className='flex flex-col gap-y-1 max-w-[400px] '>
+              {/* Word Type */}
+              <span className='text-lg font-medium opacity-70'>
+                {wordData.type}
+              </span>
+
+              {/* Meaning */}
+              <ul className='text-sm list-decimal font-medium opacity-30'>
+                {wordData.meaning.map((meaning, id) => {
+                  return (
+                    <li>{meaning}</li>
+                  )
+                })}
+              </ul>
+              <a href={`https://jisho.org/word/${wordData.japanese}`} className='z-30 text-sm text-primary underline mt-2' target='_blank'>Learn more</a>
+            </section>
           </main>
         ) : (
           // Loading

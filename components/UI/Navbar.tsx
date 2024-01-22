@@ -32,14 +32,6 @@ const Navbar: FunctionComponent = () => {
                     <Link href={"/"}>Practice</Link>
                 </li>
 
-                <li className="hover:opacity-70" onClick={() => setNavState(!navState)}>
-                    <Link href={"/kana"}>Kana</Link>
-                </li>
-
-                <li className="hover:opacity-70" onClick={() => setNavState(!navState)}>
-                    <Link href={"/kanji"}>Kanji</Link>
-                </li>
-
                 {/* Vertical Divider */}
                 <li className="-mx-3 max-lg:hidden">
                     |

@@ -11,10 +11,13 @@ const config: Config = {
       colors: {
         // Background
         body: '#121212',
-        primary: '#157145'
+        primary: '#157145',
+        correct: '#28a12c',
+        false: '#C5283D'
       },
       animation: {
         fade: 'fadeIn 200ms ease-in-out',
+        cursor: 'cursorBlink 50ms ease-in-out infinite'
       },
 
       // that is actual animation
@@ -23,6 +26,11 @@ const config: Config = {
           '0%': { opacity: '0%' },
           '100%': { opacity: '100%' },
         },
+        cursorBlink: {
+          '0%': { borderLeftColor: 'transparent' },
+          '50%': { borderLeftColor: '#FFFFF' },
+          '100%': { borderLeftColor: 'transparent' },
+        }
       }),
     },
   },

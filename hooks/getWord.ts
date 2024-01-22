@@ -1,25 +1,25 @@
-const wordList = [
-    { japanese: 'こんにちは', english: 'Hello' },
-    { japanese: 'ありがとう', english: 'Thank you' },
-    { japanese: 'おはようございます', english: 'Good morning' },
-    { japanese: 'こんばんは', english: 'Good evening' },
-    { japanese: 'はい', english: 'Yes' },
-    { japanese: 'いいえ', english: 'No' },
-    { japanese: 'おねがいします', english: 'Please' },
-    { japanese: 'すみません', english: 'Excuse me / I\'m sorry' },
-    { japanese: 'いただきます', english: 'Bon appétit (said before meals)' },
-    { japanese: 'さようなら', english: 'Goodbye' },
-    { japanese: 'ありがとうございます', english: 'Thank you very much' },
-    { japanese: 'おつかれさまです', english: 'Thank you for your hard work' },
-    { japanese: 'ごめんなさい', english: 'I\'m sorry' },
-    { japanese: 'おげんきですか', english: 'How are you?' },
-    { japanese: 'はじめまして', english: 'Nice to meet you' },
-];
+interface Dictionary {
+    [key: string]: any;
+}
 
-const getWord = () => {
-    const randomElement = wordList[Math.floor(Math.random() * wordList.length)]
+const dictionary: Dictionary = {
+    '1': require('@/wordlist/1-100.json'),
+};
 
-    return randomElement;
+
+const getWord = (difficulty: number) => {
+
+    // Get random number from 1 to difficulty
+    const randomIndex = Math.floor(Math.random() * difficulty) + 1;
+
+    // Use that number to pick wordlist from dictionary
+    const wordList = dictionary[randomIndex.toString()];
+
+    // Get random word from json list
+    const randomWordIndex = Math.floor(Math.random() * wordList.length);
+    const randomWord = wordList[randomWordIndex];
+
+    return randomWord
 }
 
 export default getWord
